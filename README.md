@@ -1,4 +1,4 @@
-# Sumo-Projekt des Physik Profiels Abi 19
+# Sumo-Projekt des Physik Profils Abi 19
 #
 # Bei Problemen an Sebastian Malunat wenden.
 #
